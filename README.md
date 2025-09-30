@@ -4,20 +4,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px" style="margin: 10px;"/>
-  <img src="https://api.iconify.design/logos:netlify.svg" width="70px" style="margin: 10px;"/>
+  <img src="https://api.iconify.design/logos:netlify.svg" width="70px" style="margin: 10px; padding: 8px; border: 2px solid #ddd; border-radius: 12px; background:#f8f8f8;"/>
 </p>
 
 ---
 
-⭐ ✨ A **cute, modern, and responsive** music player built with  
-**HTML**, **CSS**, and **JavaScript**.  
-It works seamlessly on **PC 💻** and **Mobile 📱**,  
-giving you a smooth and calming music experience — almost like your very own mini-Spotify. 🎶  
+<p align="center">
+⭐ ✨ A <b>cute, modern, and responsive</b> music player built with  
+<b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.  
+<br>
+It works seamlessly on <b>PC 💻</b> and <b>Mobile 📱</b>,  
+giving you a smooth and calming music experience — almost like your very own mini-Spotify. 🎶
+</p>
 
 ---
 
 ## 🎧 Live Demo  
-👉 [Click Here](https://my-music-player-r.netlify.app/)  
+<p align="center">
+👉 <a href="https://my-music-player-r.netlify.app/">Click Here</a>
+</p>
 
 ---
 
@@ -33,10 +38,15 @@ giving you a smooth and calming music experience — almost like your very own m
 
 ## 🚀 Tech Stack  
 
-- 🌸 **HTML5** → Structure  
-- 🌸 **CSS3** → Styling & Responsiveness  
-- 🌸 **JavaScript (Vanilla JS)** → Music Logic  
-- 🌸 **Netlify** → Deployment  
+<p align="center">
+  🌸 <b>HTML5</b> → Structure  
+  <br>
+  🌸 <b>CSS3</b> → Styling & Responsiveness  
+  <br>
+  🌸 <b>JavaScript</b> → Music Logic  
+  <br>
+  🌸 <b>Netlify</b> → Deployment  
+</p>
 
 ---
 
