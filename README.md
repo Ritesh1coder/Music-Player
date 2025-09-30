@@ -1,55 +1,45 @@
-<h1 align="center"> 🌸 🎵 My Music Player 🎵 🌸 </h1>
+# 🌸 🎵 My Music Player 🎵 🌸  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px" style="margin: 10px;"/>
-  <img src="https://api.iconify.design/logos:netlify.svg" width="70px" style="margin: 10px; padding: 8px; border: 2px solid #ddd; border-radius: 12px; background:#f8f8f8;"/>
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML Logo" width="70" style="border-radius:50%;"/>  
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS Logo" width="70" style="border-radius:50%;"/>  
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript Logo" width="70" style="border-radius:50%;"/>  
+  <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="Netlify Logo" width="70" style="border:2px solid #ccc; border-radius:50%; padding:5px;"/>  
 </p>
 
 ---
 
-<p align="center">
-⭐ ✨ A <b>cute, modern, and responsive</b> music player built with  
-<b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.  
-<br>
-It works seamlessly on <b>PC 💻</b> and <b>Mobile 📱</b>,  
-giving you a smooth and calming music experience — almost like your very own mini-Spotify. 🎶
-</p>
+## ✨ About the Project  
+
+⭐ ✨ A **cute, modern, and responsive** music player built with  
+**HTML, CSS, and JavaScript**.  
+
+It works seamlessly on **PC 💻** and **Mobile 📱**,  
+giving you a smooth and calming music experience — almost like your very own mini-Spotify. 🎶  
 
 ---
 
 ## 🎧 Live Demo  
-<p align="center">
-👉 <a href="https://my-music-player-r.netlify.app/">Click Here</a>
-</p>
+
+👉 [Click Here](https://my-music-player-r.netlify.app/)  
 
 ---
 
-## ✨ Features  
+## ⚡ Features  
 
-- 🎼 **Play / Pause / Next / Previous** controls  
-- 📱 **Fully responsive design** (mobile + desktop)  
-- 🎧 **Spotify-like draggable progress bar**  
-- 🔄 **Rotating album cover animation**  
-- 💖 **Pastel, calming UI**  
-
----
-
-## 🚀 Tech Stack  
-
-<p align="center">
-  🌸 <b>HTML5</b> → Structure  
-  <br>
-  🌸 <b>CSS3</b> → Styling & Responsiveness  
-  <br>
-  🌸 <b>JavaScript</b> → Music Logic  
-  <br>
-  🌸 <b>Netlify</b> → Deployment  
-</p>
+- 🎵 **Play / Pause / Next / Previous** controls  
+- 📱 **Fully responsive design** (works on mobile & desktop)  
+- 🎚 **Spotify-like draggable progress bar** to seek songs smoothly  
+- 💿 **Rotating album cover animation** while playing  
+- 🎨 **Cute & modern UI** with soft colors and rounded buttons  
 
 ---
 
-<p align="center">  
-⭐ If you love this project, give it a **star** on GitHub 🌟  
-</p>
+## 🛠 Tech Stack  
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
+
+---
